@@ -1,10 +1,15 @@
-### BOAS VINDAS AO MEU PERFIL
+### Boas vindas ao meu perfil :blue_heart
 
-meu nome é cec1liaW
+Meu nome é Cec1liaW
 
-- estou estudando no alura
-- estou me desenvolvendo na linguagem javascript
-- utilizo esse espaço para minha organização e comoartilhamento dos meus projetos desenvolvidos
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+### Você pode entrar em contato comigo :mailbox
 
-![](https://tenor.com/pt-BR/view/amelia-watson-dancing-swaying-hololive-3d-gif-23797891)
+ceciliawagner@escola.pr.gov.br
+
+@ceciliaw
+
+![](https://media.tenor.com/GOabrbLMl4AAAAAd/plink-cat-plink.gif)
